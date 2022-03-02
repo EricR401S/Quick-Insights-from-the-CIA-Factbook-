@@ -1,0 +1,2 @@
+# Quick-Insights-from-the-CIA-Factbook-
+This project's goal is to glean a few insights from the CIA factbook through the use of SQL. As such, it is mostly an intent to test my beginner SQL skills. An area of interest to develop is subqueries. The insights to find relate to population, population growth, population to area ratios, water to land ratios, and averages for population and area of various countries and territories.
